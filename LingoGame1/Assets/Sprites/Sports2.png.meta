@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 3f0b071f3d4a5a0468514cbf9f92aa78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8455054855947698942
+    second: Sports2_0
+  - first:
+      213: -3350483324277512256
+    second: Sports2_1
+  - first:
+      213: -2376993143682752046
+    second: Sports2_2
+  - first:
+      213: 4294014657113489495
+    second: Sports2_3
+  - first:
+      213: 3610625250111200577
+    second: Sports2_4
+  - first:
+      213: 3898591665295630944
+    second: Sports2_5
+  - first:
+      213: 6084854190281705651
+    second: Sports2_6
+  - first:
+      213: -4794548536745408784
+    second: Sports2_7
+  - first:
+      213: -8343716676203597259
+    second: Sports2_8
+  - first:
+      213: -1001415074374332990
+    second: Sports2_9
+  - first:
+      213: 7401116405139802381
+    second: Sports2_10
+  - first:
+      213: -656740491089540372
+    second: Sports2_11
+  - first:
+      213: -4136287896053266632
+    second: Sports2_12
+  - first:
+      213: -7943913045872490892
+    second: Sports2_13
+  - first:
+      213: 1557942603734508235
+    second: Sports2_14
+  - first:
+      213: 9214977032393424979
+    second: Sports2_15
+  - first:
+      213: 7356573822358521688
+    second: Sports2_16
+  - first:
+      213: -6515758458196371888
+    second: Sports2_17
+  - first:
+      213: -5960790308170066993
+    second: Sports2_18
+  - first:
+      213: 8137627205923591097
+    second: Sports2_19
+  - first:
+      213: 5375097886456810413
+    second: Sports2_20
+  - first:
+      213: -1691928197709371085
+    second: Sports2_21
+  - first:
+      213: 2834086569140433177
+    second: Sports2_22
+  - first:
+      213: 7635231714072031031
+    second: Sports2_23
+  - first:
+      213: 6957540599440929221
+    second: Sports2_24
+  - first:
+      213: 7673046595871760454
+    second: Sports2_25
+  - first:
+      213: -2961892687965634774
+    second: Sports2_26
+  - first:
+      213: 4085513803905639174
+    second: Sports2_27
+  - first:
+      213: -6874482238632329467
+    second: Sports2_28
+  - first:
+      213: 3965402532510231981
+    second: Sports2_29
+  - first:
+      213: -162968171826524437
+    second: Sports2_30
+  - first:
+      213: 5690421606563332469
+    second: Sports2_31
+  - first:
+      213: -4624220551766812709
+    second: Sports2_32
+  - first:
+      213: 1503928193091055457
+    second: Sports2_33
+  - first:
+      213: -7168430262351373789
+    second: Sports2_34
+  - first:
+      213: 1167265725159381240
+    second: Sports2_35
+  - first:
+      213: 1253286498644053276
+    second: Sports2_36
+  - first:
+      213: -5663462223967212388
+    second: Sports2_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sports2_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 446
+        width: 362
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dbbc2c76c99aa80800000000000000
+      internalID: -8455054855947698942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 603
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7a19e0b21b081d0800000000000000
+      internalID: -3350483324277512256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 516
+        width: 245
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d120456459330fd0800000000000000
+      internalID: -2376993143682752046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 492
+        width: 301
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75002997497679b30800000000000000
+      internalID: 4294014657113489495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 587
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d1fe9f8848b1230800000000000000
+      internalID: 3610625250111200577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062ae36c6749a1630800000000000000
+      internalID: 3898591665295630944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 558
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8c9c9a5aeb17450800000000000000
+      internalID: 6084854190281705651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 544
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6cbe82287567db0800000000000000
+      internalID: -4794548536745408784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 531
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b160d3e9253c80800000000000000
+      internalID: -8343716676203597259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 380
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd423bab424a12f0800000000000000
+      internalID: -1001415074374332990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 191
+        width: 314
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098cad582c06b660800000000000000
+      internalID: 7401116405139802381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 176
+        width: 291
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0efeb00ac2e6f0800000000000000
+      internalID: -656740491089540372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 180
+        width: 250
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8374ff2d214f896c0800000000000000
+      internalID: -4136287896053266632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476cd266c2d81c190800000000000000
+      internalID: -7943913045872490892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ea043b8cee9510800000000000000
+      internalID: 1557942603734508235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 326
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508135b9cc22ef70800000000000000
+      internalID: 9214977032393424979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 343
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570e952aecc71660800000000000000
+      internalID: 7356573822358521688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05655f844306395a0800000000000000
+      internalID: -6515758458196371888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39eecdbc4074da0800000000000000
+      internalID: -5960790308170066993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b351ab24d8aee070800000000000000
+      internalID: 8137627205923591097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_20
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 292
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab063b9c0f289a40800000000000000
+      internalID: 5375097886456810413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e016b4401588e0800000000000000
+      internalID: -1691928197709371085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 262
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911325018b2b45720800000000000000
+      internalID: 2834086569140433177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_23
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6f0f6acac5f960800000000000000
+      internalID: 7635231714072031031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f80400562e8060800000000000000
+      internalID: 6957540599440929221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_25
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 254
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e4f3b9332c7a60800000000000000
+      internalID: 7673046595871760454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3bf60b4e35e6d0800000000000000
+      internalID: -2961892687965634774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_27
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 220
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60320ce9829a2b830800000000000000
+      internalID: 4085513803905639174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_28
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f769793dee890a0800000000000000
+      internalID: -6874482238632329467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_29
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 227
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade4bdf790f70730800000000000000
+      internalID: 3965402532510231981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 202
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beec598af450dbdf0800000000000000
+      internalID: -162968171826524437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714a615d4078fe40800000000000000
+      internalID: 5690421606563332469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d0e888e773dfb0800000000000000
+      internalID: -4624220551766812709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 175
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f23e439b60fd410800000000000000
+      internalID: 1503928193091055457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_34
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 163
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad26708ae948c90800000000000000
+      internalID: -7168430262351373789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_35
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 166
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81d9a1ef5f23010800000000000000
+      internalID: 1167265725159381240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc8792e61946110800000000000000
+      internalID: 1253286498644053276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sports2_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c27951d175761b0800000000000000
+      internalID: -5663462223967212388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
