@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.EventSystems;
 using UnityEngine;
+using TMPro;
 
 public class RayCastPlane : MonoBehaviour
 {
@@ -25,7 +26,6 @@ public class RayCastPlane : MonoBehaviour
         plane = new Plane(Vector3.forward, gameObject.transform.position);
         wordsObject = new List<GameObject>(GameObject.FindGameObjectsWithTag("Draggable"));
     
-       
     }
 
     // Update is called once per frame
@@ -57,18 +57,14 @@ public class RayCastPlane : MonoBehaviour
                     //Constantly update the hitpoint, so we know which position on the plane we are every frame.
                     hitPoint = ray.GetPoint(thePoint);
 
-                    
-                    
-
+                  
                     //Checks through the list of words in worldspace with the hitpoint we created.
                     foreach (GameObject objectInCanvas in wordsObject)
                     {
                         //  Debug.Log("Distance: " + Vector3.Distance(hitPoint, objectsInCanvas.transform.position));
                         if (objectInCanvas != null)
                         {
-
-                           
-
+                            
                             //Calculates the distance between the point the raycast hit and the object we want to be hit.
                             if (Vector3.Distance(hitPoint, objectInCanvas.transform.position) <= 3.5f)
                             {
@@ -80,9 +76,7 @@ public class RayCastPlane : MonoBehaviour
                                 }
                             }
                         }
-
-
-
+                     
                     }
 
 
